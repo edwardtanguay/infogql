@@ -2,7 +2,7 @@
 
 ## setup
 
-**.env**
+.env
 
 ```
 VITE_GITHUB_ACCESS_TOKEN = ghp_sKERovI7dYVnnnnnnnnnnMH54Ei0SK
